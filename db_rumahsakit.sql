@@ -1,4 +1,4 @@
--- Pembuatan Database Rumah Sakit
+-- Pembuatan Database SQL Rumah Sakit 
 
 DROP DATABASE IF EXISTS `db_rumahsakit`;
 CREATE DATABASE `db_rumahsakit`; 
