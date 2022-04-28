@@ -1,0 +1,11 @@
+Facility.Name,Facility.City,Facility.State,Facility.Type,Rating.Overall,Rating.Mortality,Rating.Safety,Rating.Readmission,Rating.Experience,Rating.Effectiveness,Rating.Timeliness,Rating.Imaging,Procedure.Heart Attack.Cost,Procedure.Heart Attack.Quality,Procedure.Heart Attack.Value,Procedure.Heart Failure.Cost,Procedure.Heart Failure.Quality,Procedure.Heart Failure.Value,Procedure.Pneumonia.Cost,Procedure.Pneumonia.Quality,Procedure.Pneumonia.Value,Procedure.Hip Knee.Cost,Procedure.Hip Knee.Quality,Procedure.Hip Knee.Value
+Southeast Alabama Medical Center,Dothan,AL,Government,2,Below,Above,Below,Below,Same,Above,Same,23394,Average,Average,17041,Average,Average,18281,Average,Average,25812,Average,Higher
+Marshall Medical Center South,Boaz,AL,Government,1,Below,Below,Below,Same,Above,Above,Below,22579,Average,Average,15819,Worse,Average,15614,Worse,Lower,22747,Average,Average
+Eliza Coffee Memorial Hospital,Florence,AL,Government,3,Below,Above,Above,Below,Same,Above,Below,24002,Average,Average,16334,Average,Average,17371,Average,Average,24491,Average,Higher
+Mizell Memorial Hospital,Opp,AL,Private,1,Same,Same,Below,Below,Below,Above,None,0,Unknown,Unknown,14541,Average,Lower,15226,Worse,Lower,23472,Average,Average
+Crenshaw Community Hospital,Luverne,AL,Proprietary,4,Same,None,Above,None,Same,Above,None,0,Unknown,Unknown,13767,Average,Lower,14341,Average,Lower,0,Unknown,Unknown
+St Vincent's East,Birmingham,AL,Private,2,Same,Below,Below,Below,Below,Below,Same,23940,Average,Average,16132,Average,Average,17848,Average,Average,23792,Average,Higher
+Dekalb Regional Medical Center,Fort Payne,AL,Proprietary,2,Below,Above,Below,Below,Same,Above,Same,23853,Average,Average,15761,Average,Average,17896,Worse,Average,0,Unknown,Unknown
+Shelby Baptist Medical Center,Alabaster,AL,Private,2,Same,Below,Above,Below,Same,Same,Below,24008,Average,Average,17937,Average,Higher,18858,Average,Higher,22367,Average,Average
+Callahan Eye Hospital,Birmingham,AL,Private,-1,None,None,None,None,Same,Same,None,0,Unknown,Unknown,0,Unknown,Unknown,0,Unknown,Unknown,0,Unknown,Unknown
+Helen Keller Memorial Hospital,Sheffield,AL,Government,3,Same,Above,Below,Same,Same,Above,Below,22948,Average,Average,17311,Average,Average,17516,Average,Average,23130,Average,Higher
